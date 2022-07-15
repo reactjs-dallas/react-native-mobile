@@ -69,4 +69,30 @@ export const eventList = [
     topic1: 'Setting up docker for testing with Cypress',
     topic2: 'React 102',
   },
+  {
+    date: 'March 2022',
+    venue: 'Text-Em-All',
+    speaker1: 'Mike Mathew',
+    speaker2: 'Mike Mathew',
+    topic1: 'Something broke in production, now what?',
+    topic2: 'Upgrading from Material-UI v4 to v5',
+  },
+  {
+    date: 'May 2022',
+    venue: 'Text-Em-All',
+    speaker1: 'Patrick Hulce',
+    topic1: 'React Performance: Profiling & v18 Improvements',
+  },
+  {
+    date: 'June 2022',
+    venue: 'Text-Em-All',
+    speaker1: 'Mike Mathew',
+    topic1: 'React 101',
+  },
+  {
+    date: 'JuLy 2022',
+    venue: 'Text-Em-All',
+    speaker1: 'Humberto Lopez',
+    topic1: 'Debugging React and Javascript',
+  },
 ];
